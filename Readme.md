@@ -14,3 +14,8 @@ I am proud that I have gotten my first real-world application of machine learnin
 I strengthened my knowledge in Python throughout my development in machine learning. And boosted my confidence to apply machine learning to a broader spectrum of things.
 ## What's next?
 It could definitely gain more accuracy by training on a larger dataset and improve by adding the identification of more skin conditions. It would be great to build an app that automatically identifies the diseases with only a picture. It could also suggest ways to prevent, mitigate, or reach help about a specific skin condition.
+
+## Recources
+http://pytorch.org/
+https://isic-archive.com/
+http://isdis.net/isic-project/
