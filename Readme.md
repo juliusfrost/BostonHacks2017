@@ -1,4 +1,4 @@
-### Skin Cancer Diagnotsic Using Machine Learning
+# Skin Cancer Diagnotsic Using Machine Learning
 
 ## Inspiration
 Having studied AI theory in the news and in research papers, I thought BostonHacks was a great opportunity to advance my skills in the application of machine learning. As I contemplated what algorithm to use, I figured transfer learning was a great approach to the subject in the limited time of one day. After listening to the sponsors' talks, I came up with the idea to apply machine learning to healthcare. My first idea was to create an app that could diagnose any skin disease by taking a picture. But after surfing through datasets of diseases,  I realized that there were not enough images to do so. Then, I came across melanoma, a skin cancer that can become deadly if not diagnosed early enough. Realizing this, I couldn't back down from the challenge.
