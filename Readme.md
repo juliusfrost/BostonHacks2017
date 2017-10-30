@@ -15,7 +15,9 @@ I strengthened my knowledge in Python throughout my development in machine learn
 ## What's next?
 It could definitely gain more accuracy by training on a larger dataset and improve by adding the identification of more skin conditions. It would be great to build an app that automatically identifies the diseases with only a picture. It could also suggest ways to prevent, mitigate, or reach help about a specific skin condition.
 
-## Recources
+## Resources
 http://pytorch.org/
+
 https://isic-archive.com/
+
 http://isdis.net/isic-project/
