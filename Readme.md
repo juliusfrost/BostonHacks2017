@@ -21,3 +21,12 @@ http://pytorch.org/
 https://isic-archive.com/
 
 http://isdis.net/isic-project/
+
+## Donate
+BTC:  1DeEp7gQfQG9NAzaJxUDH6SBDjCmu4vG85 
+
+ETH:  0x106B43EA12352A3a9ef43a2416EEC596922030AA
+
+BCH:  qqdkt432xz9k6atndxps3ru5whh4xy7vwctwq89k7f
+
+LTC:  LM6QfsVzGZ16UXRsHKumpbbMxeUGCrDm9a
